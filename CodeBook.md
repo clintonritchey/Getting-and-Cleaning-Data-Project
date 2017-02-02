@@ -48,3 +48,14 @@ activityType
 [77] "fBodyBodyGyroMag-mean()"         "fBodyBodyGyroMag-std()"         
 [79] "fBodyBodyGyroMag-meanFreq()"     "fBodyBodyGyroJerkMag-mean()"    
 [81] "fBodyBodyGyroJerkMag-std()"      "fBodyBodyGyroJerkMag-meanFreq()"
+
+## Activity Labels
+
+activityId       activityType
+1          1            WALKING
+2          2   WALKING_UPSTAIRS
+3          3 WALKING_DOWNSTAIRS
+4          4            SITTING
+5          5           STANDING
+6          6             LAYING
+
